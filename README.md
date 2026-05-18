@@ -8,3 +8,9 @@ Values of the YouTubers or admins sign
 - ILIA222010: 100%
 - Hanz: 50%
 - TH3_R3ALS3VEN
+
+- [x] Finish bot commands
+- [ ] Add admin permissions
+- [ ] Test all features
+- [ ] Publish the game
+- [ ] 
